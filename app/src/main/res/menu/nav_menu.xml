@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item
+        android:id="@+id/recent_activity"
+        android:title="Recent Activity"
+        android:icon="@drawable/ic_priority_high_black_24dp"
+        />
+    <item
+        android:id="@+id/report"
+        android:title="Report"
+        android:icon="@drawable/ic_assignment_black_24dp"
+        />
+    <item
+        android:id="@+id/patient_list"
+        android:title="Patient List"
+        android:icon="@drawable/ic_group_black_24dp"
+        />
+    <item
+        android:id="@+id/upload"
+        android:title="Upload"
+        android:icon="@drawable/ic_file_upload_black_24dp"
+        />
+    <item
+        android:id="@+id/download"
+        android:title="Download"
+        android:icon="@drawable/ic_file_download_black_24dp"
+        />
+    <item
+        android:id="@+id/settings"
+        android:title="Settings"
+        android:icon="@drawable/ic_settings_black_24dp"
+        />
+    <item
+        android:id="@+id/tip_n_feedback"
+        android:title="Tip and Feedback"
+        android:icon="@drawable/ic_mood_black_24dp"
+        />
+</group>
+</menu>
